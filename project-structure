@@ -1,0 +1,12 @@
+volume-grabber/
+├── src/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── binance_utils.py
+│   ├── volume_analyzer.py
+│   └── notifier.py
+├── tests/
+│   └── __init__.py
+├── requirements.txt
+├── README.md
+└── serverless.yml 
